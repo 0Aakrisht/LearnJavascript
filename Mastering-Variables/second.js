@@ -11,4 +11,6 @@ console.log(whatDoYouWannaBecomeInYourLife);
 let gender = "male" ;
 console.log(gender);
 
-//
+//4 .Create a variable name (twitterHandle) and store your twitter handle.
+let twitterHandle = "0Aakrisht" ;
+console.log(twitterHandle);
