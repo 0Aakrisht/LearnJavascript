@@ -6,3 +6,9 @@ console.log(name);
 // (whatDoYouWannaBecomeInYourLife) & store "programmer"
 let whatDoYouWannaBecomeInYourLife = "Programmer" ;
 console.log(whatDoYouWannaBecomeInYourLife);
+
+// 3. Create a variable name (gender) and store your gender
+let gender = "male" ;
+console.log(gender);
+
+//
