@@ -6,8 +6,10 @@ console.log(firstFavNum);
 let secondFavNum ;
 secondFavNum = 10 ;
 console.log(secondFavNum);
-
 //3. add (firstFavNum and secondFavNum) & store your favorite number .
+let sum ;
+sum = firstFavNum + secondFavNum ;
+console.log(sum);
 //4 . subtract (firstFavNum and secondFavNum) & store your favorite number .
 // 5. Multiply (firstFavNum and secondFavNum) & store your favorite number .
 // 6. Divide (firstFavNum and secondFavNum) & store your favorite number .
