@@ -19,5 +19,8 @@ let multi;
 multi = firstFavNum * secondFavNum ;
 console.log(multi);
 // 6. Divide (firstFavNum and secondFavNum) & store your favorite number .
+let div ;
+div = firstFavNum / secondFavNum ;
+console.log(div);
 //7. check (firstFavNum mod secondFavNum) & store your favorite number .
 //8. check the power of (firstFavNum)
