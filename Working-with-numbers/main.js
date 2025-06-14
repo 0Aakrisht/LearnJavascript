@@ -25,5 +25,5 @@ console.log(div);
 //7. check (firstFavNum mod secondFavNum) & store your favorite number .
 console.log(firstFavNum % secondFavNum);
 //8. check the power of (firstFavNum)
-console.log(firstFavNum ** secondFavNum);
+console.log(firstFavNum ** firstFavNum);
 
