@@ -12,7 +12,8 @@ console.log(firstFavNum < secondFavNum);
 console.log(firstFavNum >= secondFavNum);
 //6. check  (firstFavNum is less than and equal to secondFavNum)
 console.log(firstFavNum <= secondFavNum);
-//7. check  (firstFavNum is equal to secondFavNum) using strict non-equality operator
-//8. check  (firstFavNum is equal to secondFavNum) using loose non-equality operator
+//7. check  (firstFavNum is equal to secondFavNum) using strict quality operator
+console.log(firstFavNum === secondFavNum);
+//8. check  (firstFavNum is equal to secondFavNum) using loose equality operator
 //9. check  (firstFavNum is not equal to secondFavNum) using strict non-equality operator
 //10. check  (firstFavNum is not  equal to secondFavNum) using loose non-equality operator
