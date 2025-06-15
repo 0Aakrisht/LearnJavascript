@@ -19,3 +19,5 @@ console.log(firstFavNum == secondFavNum);
 //9. check  (firstFavNum is not equal to secondFavNum) using strict non-equality operator
 console.log(firstFavNum ===! secondFavNum);
 //10. check  (firstFavNum is not  equal to secondFavNum) using loose non-equality operator
+console.log(firstFavNum ==! secondFavNum);
+
