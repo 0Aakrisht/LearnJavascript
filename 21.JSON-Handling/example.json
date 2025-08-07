@@ -1,0 +1,10 @@
+{
+    "name":"Aakrisht Pachhai",
+    "age":20,
+    "email":"paakrisht123@gmail.com",
+    "address":{
+        "city":"NawalParasi",
+        "country":"Nepal",
+        "postalcode":"33000"
+    }
+}           
