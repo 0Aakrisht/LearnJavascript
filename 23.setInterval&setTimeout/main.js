@@ -1,10 +1,10 @@
-const mouse = setInterval(() => {
-    console.log("Hello ,My name is Aarkisht");
-    
+const table  = setInterval(() => {
+    console.log("hello world");
     
 }, 2000);
+
 setTimeout(() => {
-    clearInterval(mouse)  
-    console.log("I am going to stop the interval now");
-      
+    clearInterval(table);
+    console.log("finished");
+    
 }, 10000);
