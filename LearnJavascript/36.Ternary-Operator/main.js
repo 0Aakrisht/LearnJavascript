@@ -5,3 +5,4 @@ const hasMoney =  false ;
 
 const action = hasMoney ? "buy products": "go to work";
 console.log(action);
+
