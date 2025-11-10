@@ -1,0 +1,6 @@
+//iterate over "array1" and log the values using for of loop.
+const array1 = ["a","b","c"]
+for (const element of array1) {
+    console.log(element);
+    
+}
